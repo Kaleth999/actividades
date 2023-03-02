@@ -7,7 +7,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
 
   * [ ] **Actividades de proyecto 1**
   
-    * [ ] Infografía sobre la Teoría General de Sistemas.
+    * [x] Infografía sobre la Teoría General de Sistemas.
     * [ ] Identificación de procesos organizacionales.
     * [ ] Mapa de procesos del software a construir.
     * [ ] Mapa mental sobre ingeniería de requisitos
