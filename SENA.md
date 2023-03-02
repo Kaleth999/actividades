@@ -44,14 +44,14 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Propuesta técnica y económica para la implementación del proyecto
     * [ ] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
     * [ ] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica.
-    * [ ] Cuestionario procedimientos aritméticos
+    * [x] Cuestionario procedimientos aritméticos
     * [ ] Planteamiento de ecuación.
     * [ ] Video sustentación.
     * [ ] Algoritmo para el cálculo de áreas y volúmenes.
-    * [ ] Cuestionario.
+    * [x] Cuestionario.
     * [ ] Vídeo entrevista virtual.
     * [ ] Crónica.
-    * [ ] Cuestionario.
+    * [x] Cuestionario.
     * [ ] Presentación.
     * [ ] Documento escrito
 
@@ -65,7 +65,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Taller aplicando funciones y procedimientos en la solución de algoritmos 
     * [ ] Bases teóricas de estructuras de almacenamiento en memoria
     * [ ] Resolución a problemas algorítmicos aplicando estructuras de almacenamiento
-    * [ ] Cuestionario 
+    * [x] Cuestionario 
     * [ ] Video-expositivo sobre experimento de aplicación 
     * [ ] informe de laboratorio
     
