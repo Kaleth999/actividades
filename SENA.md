@@ -10,7 +10,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Infografía sobre la Teoría General de Sistemas.
     * [x] Identificación de procesos organizacionales.
     * [x] Mapa de procesos del software a construir.
-    * [ ] Mapa mental sobre ingeniería de requisitos
+    * [x] Mapa mental sobre ingeniería de requisitos
     * [ ] Foro temático. Fuentes de requisitos.
     * [ ] Diseño del instrumento de recolección de información
     * [ ] Formulación del proyecto de software
