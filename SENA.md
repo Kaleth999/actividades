@@ -20,7 +20,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Taller para la determinación de las especificaciones funcionales del software y metodología a utilizar.
     * [ ] Informe de evaluación de los requerimientos
     * [x] Taller sobre metodologías de desarrollo de software
-    * [ ] Infografía sobre metodologías de desarrollo de software
+    * [x] Infografía sobre metodologías de desarrollo de software
     * [ ] Foro. Especificación de la metodología a aplicar.
     * [ ] Documento identificando la metodología para el proyecto de desarrollo de software
     * [ ] Mapa conceptual - Software y servicios de internet. Relacionar correctamente los tipos de software y servicios de internet.
