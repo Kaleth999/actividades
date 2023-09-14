@@ -14,7 +14,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Foro temático. Fuentes de requisitos.
     * [x] Diseño del instrumento de recolección de información
     * [ ] Formulación del proyecto de software
-    * [ ] Formulario de recolección de información.
+    * [x] Formulario de recolección de información.
     * [ ] Especificación de los requerimientos funcionales y no funcionales del software.
     * [ ] Documento con especificación de requerimientos.
     * [ ] Taller para la determinación de las especificaciones funcionales del software y metodología a utilizar.
