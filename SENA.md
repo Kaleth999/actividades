@@ -13,7 +13,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Mapa mental sobre ingeniería de requisitos
     * [ ] Foro temático. Fuentes de requisitos.
     * [x] Diseño del instrumento de recolección de información
-    * [ ] Formulación del proyecto de software
+    * [x] Formulación del proyecto de software
     * [x] Formulario de recolección de información.
     * [ ] Especificación de los requerimientos funcionales y no funcionales del software.
     * [ ] Documento con especificación de requerimientos.
