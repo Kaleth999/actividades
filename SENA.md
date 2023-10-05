@@ -23,7 +23,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Infografía sobre metodologías de desarrollo de software
     * [ ] Foro. Especificación de la metodología a aplicar.
     * [x] Documento identificando la metodología para el proyecto de desarrollo de software
-    * [ ] Mapa conceptual - Software y servicios de internet. Relacionar correctamente los tipos de software y servicios de internet.
+    * [X] Mapa conceptual - Software y servicios de internet. Relacionar correctamente los tipos de software y servicios de internet.
     * [x] Taller. Utilización de las herramientas de Ofimática. Realizar un taller práctico con las herramientas ofimáticas
     * [x] Informe mejora de productos y procesos con la incorporación de TIC.
     * [ ] Video presentación.
