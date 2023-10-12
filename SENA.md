@@ -17,8 +17,8 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Formulario de recolección de información.
     * [x] Especificación de los requerimientos funcionales y no funcionales del software.
     * [X] Documento con especificación de requerimientos.
-    * [ ] Taller para la determinación de las especificaciones funcionales del software y metodología a utilizar.
-    * [ ] Informe de evaluación de los requerimientos
+    * [X] Taller para la determinación de las especificaciones funcionales del software y metodología a utilizar.
+    * [X] Informe de evaluación de los requerimientos
     * [x] Taller sobre metodologías de desarrollo de software
     * [x] Infografía sobre metodologías de desarrollo de software
     * [ ] Foro. Especificación de la metodología a aplicar.
