@@ -33,7 +33,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Elaboración de diagramas y plantillas para casos de uso del proyecto.
     * [ ] Elaboración de historias de usuario del proyecto
     * [ ] Diagramas y documentación de actividades del proyecto.
-    * [ ] Elaboración de los diagramas del Modelo de dominio del proyecto.
+    * [x] Elaboración de los diagramas del Modelo de dominio del proyecto.
     * [x] Mapa conceptual sobre validación de documentos
     * [ ] Elaboración del informe de análisis con listas de chequeo para la validación de artefactos.
     * [ ] Foro temático. Licenciamiento de software.
