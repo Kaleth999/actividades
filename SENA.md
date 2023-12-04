@@ -39,7 +39,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Foro temático. Licenciamiento de software.
     * [ ] Diseño de las fichas técnicas para la recolección de la información.
     * [ ] Especificación de los referentes técnicos del hardware - software y estimación de las condiciones económicas.
-    * [ ] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores
+    * [x] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores
     * [ ] Diseño de tablas comparativas sobre presupuestos de hardware y software.
     * [ ] Propuesta técnica y económica para la implementación del proyecto
     * [ ] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
