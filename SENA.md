@@ -37,7 +37,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Mapa conceptual sobre validación de documentos
     * [ ] Elaboración del informe de análisis con listas de chequeo para la validación de artefactos.
     * [ ] Foro temático. Licenciamiento de software.
-    * [ ] Diseño de las fichas técnicas para la recolección de la información.
+    * [x] Diseño de las fichas técnicas para la recolección de la información.
     * [ ] Especificación de los referentes técnicos del hardware - software y estimación de las condiciones económicas.
     * [x] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores
     * [ ] Diseño de tablas comparativas sobre presupuestos de hardware y software.
