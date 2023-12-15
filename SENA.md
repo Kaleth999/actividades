@@ -42,7 +42,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores
     * [ ] Diseño de tablas comparativas sobre presupuestos de hardware y software.
     * [x] Propuesta técnica y económica para la implementación del proyecto
-    * [ ] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
+    * [x] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
     * [ ] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica.
     * [x] Cuestionario procedimientos aritméticos
     * [ ] Planteamiento de ecuación.
