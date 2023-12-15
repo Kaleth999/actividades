@@ -29,7 +29,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Video presentación.
     
   * [ ] **Actividades de proyecto 2**
-    * [ ] Foro temático. Lenguaje Unificado de Modelado 
+    * [x] Foro temático. Lenguaje Unificado de Modelado 
     * [x] Elaboración de diagramas y plantillas para casos de uso del proyecto.
     * [ ] Elaboración de historias de usuario del proyecto
     * [ ] Diagramas y documentación de actividades del proyecto.
