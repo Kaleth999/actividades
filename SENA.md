@@ -47,7 +47,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Cuestionario procedimientos aritméticos
     * [ ] Planteamiento de ecuación.
     * [ ] Video sustentación.
-    * [ ] Algoritmo para el cálculo de áreas y volúmenes.
+    * [x] Algoritmo para el cálculo de áreas y volúmenes.
     * [x] Cuestionario.
     * [ ] Vídeo entrevista virtual.
     * [ ] Crónica.
