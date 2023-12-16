@@ -36,7 +36,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Elaboración de los diagramas del Modelo de dominio del proyecto.
     * [x] Mapa conceptual sobre validación de documentos
     * [ ] Elaboración del informe de análisis con listas de chequeo para la validación de artefactos.
-    * [ ] Foro temático. Licenciamiento de software.
+    * [x] Foro temático. Licenciamiento de software.
     * [x] Diseño de las fichas técnicas para la recolección de la información.
     * [x] Especificación de los referentes técnicos del hardware - software y estimación de las condiciones económicas.
     * [x] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores
