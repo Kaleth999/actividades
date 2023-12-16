@@ -11,7 +11,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Identificación de procesos organizacionales.
     * [x] Mapa de procesos del software a construir.
     * [x] Mapa mental sobre ingeniería de requisitos
-    * [ ] Foro temático. Fuentes de requisitos.
+    * [x] Foro temático. Fuentes de requisitos.
     * [x] Diseño del instrumento de recolección de información
     * [x] Formulación del proyecto de software
     * [x] Formulario de recolección de información.
