@@ -31,7 +31,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
   * [ ] **Actividades de proyecto 2**
     * [x] Foro temático. Lenguaje Unificado de Modelado 
     * [x] Elaboración de diagramas y plantillas para casos de uso del proyecto.
-    * [ ] Elaboración de historias de usuario del proyecto
+    * [x] Elaboración de historias de usuario del proyecto
     * [ ] Diagramas y documentación de actividades del proyecto.
     * [x] Elaboración de los diagramas del Modelo de dominio del proyecto.
     * [x] Mapa conceptual sobre validación de documentos
