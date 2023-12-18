@@ -5,7 +5,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
 
 ## Fase Analisis
 
-  * [ ] **Actividades de proyecto 1**
+  * [x] **Actividades de proyecto 1**
   
     * [x] Infografía sobre la Teoría General de Sistemas.
     * [x] Identificación de procesos organizacionales.
