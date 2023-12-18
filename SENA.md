@@ -45,7 +45,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
     * [ ] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica.
     * [x] Cuestionario procedimientos aritméticos
-    * [ ] Planteamiento de ecuación.
+    * [x] Planteamiento de ecuación.
     * [ ] Video sustentación.
     * [x] Algoritmo para el cálculo de áreas y volúmenes.
     * [x] Cuestionario.
