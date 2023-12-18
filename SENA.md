@@ -40,7 +40,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Diseño de las fichas técnicas para la recolección de la información.
     * [x] Especificación de los referentes técnicos del hardware - software y estimación de las condiciones económicas.
     * [x] Ficha técnica de los productos requeridos, los términos de referencia para el contrato y lista de chequeo para evaluación de proveedores
-    * [ ] Diseño de tablas comparativas sobre presupuestos de hardware y software.
+    * [x] Diseño de tablas comparativas sobre presupuestos de hardware y software.
     * [x] Propuesta técnica y económica para la implementación del proyecto
     * [x] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
     * [X] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica.
@@ -60,7 +60,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
   * [ ] **Actividades de proyecto 3**
   
     * [x] Bases conceptuales de lógica proposicional
-    * [ ] Taller de resolución de problemas de algoritmos en pseudocódigo y diagramas de flujo
+    * [x] Taller de resolución de problemas de algoritmos en pseudocódigo y diagramas de flujo
     * [ ] Fundamentos de programación estructurada y estructuras cíclicas
     * [ ] Taller aplicando funciones y procedimientos en la solución de algoritmos 
     * [ ] Bases teóricas de estructuras de almacenamiento en memoria
