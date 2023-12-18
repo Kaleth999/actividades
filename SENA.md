@@ -26,7 +26,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [X] Mapa conceptual - Software y servicios de internet. Relacionar correctamente los tipos de software y servicios de internet.
     * [x] Taller. Utilización de las herramientas de Ofimática. Realizar un taller práctico con las herramientas ofimáticas
     * [x] Informe mejora de productos y procesos con la incorporación de TIC.
-    * [ ] Video presentación.
+    * [X] Video presentación.
     
   * [ ] **Actividades de proyecto 2**
     * [x] Foro temático. Lenguaje Unificado de Modelado 
