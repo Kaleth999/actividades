@@ -53,7 +53,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Crónica.
     * [x] Cuestionario.
     * [ ] Presentación.
-    * [ ] Documento escrito
+    * [X] Documento escrito
 
 ## Fase Planeacion
 
