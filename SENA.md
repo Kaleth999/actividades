@@ -49,8 +49,8 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Video sustentación.
     * [x] Algoritmo para el cálculo de áreas y volúmenes.
     * [x] Cuestionario.
-    * [ ] Vídeo entrevista virtual.
-    * [ ] Crónica.
+    * [x] Vídeo entrevista virtual.
+    * [x] Crónica.
     * [x] Cuestionario.
     * [ ] Presentación.
     * [X] Documento escrito
