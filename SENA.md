@@ -31,7 +31,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
   * [ ] **Actividades de proyecto 2**
     * [x] Foro temático. Lenguaje Unificado de Modelado 
     * [x] Elaboración de diagramas y plantillas para casos de uso del proyecto.
-    * [x] Elaboración de historias de usuario del proyecto
+    * [ ] Elaboración de historias de usuario del proyecto
     * [x] Diagramas y documentación de actividades del proyecto.
     * [x] Elaboración de los diagramas del Modelo de dominio del proyecto.
     * [x] Mapa conceptual sobre validación de documentos
@@ -43,7 +43,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Diseño de tablas comparativas sobre presupuestos de hardware y software.
     * [x] Propuesta técnica y económica para la implementación del proyecto
     * [x] Taller de especificación del modelo conceptual y estructurar la propuesta técnica del proyecto de software. 
-    * [X] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica.
+    * [ ] Propuestas técnica y económica con ajustes de acuerdo a la negociación tecnológica.
     * [x] Cuestionario procedimientos aritméticos
     * [x] Planteamiento de ecuación.
     * [ ] Video sustentación.
@@ -71,10 +71,10 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     
     * [ ] **Ingles**
    
-    * [ ] Audio    
+    * [x] Audio    
     * [ ] Foro
     * [ ] Audio
-    * [ ] Foro
+    * [x] Foro
     
   * [ ] **Actividades de proyecto 4**
   
