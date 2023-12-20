@@ -60,7 +60,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
   * [ ] **Actividades de proyecto 3**
   
     * [x] Bases conceptuales de lógica proposicional
-    * [x] Taller de resolución de problemas de algoritmos en pseudocódigo y diagramas de flujo
+    * [ ] Taller de resolución de problemas de algoritmos en pseudocódigo y diagramas de flujo
     * [ ] Fundamentos de programación estructurada y estructuras cíclicas
     * [ ] Taller aplicando funciones y procedimientos en la solución de algoritmos 
     * [ ] Bases teóricas de estructuras de almacenamiento en memoria
