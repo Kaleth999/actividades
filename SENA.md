@@ -71,8 +71,8 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     
     * [ ] **Ingles**
    
-    * [x] Audio    
-    * [ ] Foro
+    * [] Audio    
+    * [x] Foro
     * [ ] Audio
     * [x] Foro
     
