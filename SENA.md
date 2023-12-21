@@ -52,7 +52,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Vídeo entrevista virtual.
     * [x] Crónica.
     * [x] Cuestionario.
-    * [ ] Presentación.
+    * [x] Presentación.
     * [X] Documento escrito
 
 ## Fase Planeacion
