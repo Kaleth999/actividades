@@ -64,7 +64,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Fundamentos de programación estructurada y estructuras cíclicas
     * [x] Taller aplicando funciones y procedimientos en la solución de algoritmos 
     * [X] Bases teóricas de estructuras de almacenamiento en memoria
-    * [ ] Resolución a problemas algorítmicos aplicando estructuras de almacenamiento
+    * [x] Resolución a problemas algorítmicos aplicando estructuras de almacenamiento
     * [x] Cuestionario 
     * [ ] Video-expositivo sobre experimento de aplicación 
     * [ ] informe de laboratorio
