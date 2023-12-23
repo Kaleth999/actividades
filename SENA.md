@@ -94,7 +94,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Listas de chequeo para validación de documentación de diseño 
     * [ ] Informe de evaluación a los artefactos de diseño del software 
     * [ ] Video. La comunicación como expresión humana
-    * [ ] Informe. Creación de contenidos comunicativos
+    * [x] Informe. Creación de contenidos comunicativos
    
     * [ ] **Ingles**
     
