@@ -67,7 +67,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Resolución a problemas algorítmicos aplicando estructuras de almacenamiento
     * [x] Cuestionario 
     * [ ] Video-expositivo sobre experimento de aplicación 
-    * [ ] informe de laboratorio
+    * [x] informe de laboratorio
     
     * [ ] **Ingles**
    
