@@ -83,7 +83,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Modelos conceptual y lógico para el proyecto desarrollo de software 
     * [x] Taller de conceptos y principios de programación orientada a objetos
     * [x] Informe de entregables para el proyecto de desarrollo de software
-    * [ ] Bases conceptuales acerca del lenguaje unificado de modelado (UML) y patrones de diseño
+    * [x] Bases conceptuales acerca del lenguaje unificado de modelado (UML) y patrones de diseño
     * [ ] Desarrollar la arquitectura de software de acuerdo al patrón de diseño seleccionado
     * [ ] Taller Arquitectura de software
     * [ ] Mapa conceptual para Identificación y caracterización de los componentes del ciclo de vida del software
