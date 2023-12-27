@@ -85,8 +85,8 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Informe de entregables para el proyecto de desarrollo de software
     * [x] Bases conceptuales acerca del lenguaje unificado de modelado (UML) y patrones de diseño
     * [x] Diagrama de clases del proyecto de software
-    * [ ] Desarrollar la arquitectura de software de acuerdo al patrón de diseño seleccionado
-    * [ ] Taller Arquitectura de software
+    * [x] Desarrollar la arquitectura de software de acuerdo al patrón de diseño seleccionado
+    * [x] Taller Arquitectura de software
     * [ ] Mapa conceptual para Identificación y caracterización de los componentes del ciclo de vida del software
     * [ ] Foro. Implementar la arquitectura de software al caso de estudio y proyecto a desarrollar
     * [ ] Diagrama de despliegue para caso de estudio y proyecto de software
