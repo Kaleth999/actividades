@@ -99,7 +99,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
    
     * [ ] **Ingles**
     
-    * [ ] Mapa mental sobre su (Personal Learning Environment) PLE
+    * [x] Mapa mental sobre su (Personal Learning Environment) PLE
     * [ ] Blog en el que consolide y presente las evidencias de video, audio y texto que ha elaborado en inglés
      
   * [ ] **Actividades de proyecto 5**
