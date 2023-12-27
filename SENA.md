@@ -88,7 +88,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Desarrollar la arquitectura de software de acuerdo al patrón de diseño seleccionado
     * [x] Taller Arquitectura de software
     * [x] Mapa conceptual para Identificación y caracterización de los componentes del ciclo de vida del software
-    * [ ] Foro. Implementar la arquitectura de software al caso de estudio y proyecto a desarrollar
+    * [x] Foro. Implementar la arquitectura de software al caso de estudio y proyecto a desarrollar
     * [ ] Diagrama de despliegue para caso de estudio y proyecto de software
     * [x] Taller sobre validación de documentos
     * [ ] Diseño de instrumentos para verificación de artefactos 
