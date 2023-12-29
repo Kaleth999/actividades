@@ -91,7 +91,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Foro. Implementar la arquitectura de software al caso de estudio y proyecto a desarrollar
     * [ ] Diagrama de despliegue para caso de estudio y proyecto de software
     * [x] Taller sobre validación de documentos
-    * [ ] Diseño de instrumentos para verificación de artefactos 
+    * [X] Diseño de instrumentos para verificación de artefactos 
     * [ ] Listas de chequeo para validación de documentación de diseño 
     * [ ] Informe de evaluación a los artefactos de diseño del software 
     * [ ] Video. La comunicación como expresión humana
