@@ -108,7 +108,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Propuesta de investigación formativa
     * [x] Taller sobre construcción del prototipo del software de acuerdo al análisis de las características funcionales y de calidad
     * [x] Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, web
-    * [ ] Elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y accesibilidad 
+    * [x] Elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y accesibilidad 
     * [ ] Maquetación de la Interfaz gráfica en HTML
     * [ ] Mapa de Navegación
     * [ ] Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, móviles
