@@ -110,7 +110,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, web
     * [x] Elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y accesibilidad 
     * [ ] Maquetación de la Interfaz gráfica en HTML
-    * [ ] Mapa de Navegación
+    * [x] Mapa de Navegación
     * [x] Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, móviles
     * [ ] Elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y accesibilidad app móvil 
     * [ ] Maquetación de la Interfaz gráfica en XML – Android  
