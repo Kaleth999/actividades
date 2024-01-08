@@ -119,7 +119,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
       
     * [x] Resolucion de problemas aplicando el modelo relacional, cardinalidad y normalizacion
     * [x] Crea Modelo entidad relación de caso
-    * [ ] Creación de los objetos de la Base de Datos
+    * [x] Creación de los objetos de la Base de Datos
     * [ ] Elaboración de las Bases de Datos
     * [ ] Destrezas y conocimientos en el manejo de sentencias DDL y DML de SQL
     * [ ] Creación de la estructura de la BD y aplicación de restricciones
@@ -150,7 +150,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Módulos de software codificados y probados
     * [ ] Codificación de módulos del software Stand-alone, web y móvil de acuerdo al proyecto a desarrollar
     * [ ] Módulos de software codificados y probados
-    * [ ] Taller sobre componentes front-end
+    * [x] Taller sobre componentes front-end
     * [ ] Verificación de procedimientos para la definición de componentes front-end de la aplicación (Listas de chequeo)
     * [ ] Componente front-end del proyecto formativo y proyectos de clase (listas de chequeo)
     * [ ] Diseño y Desarrollo de servicios web - caso
