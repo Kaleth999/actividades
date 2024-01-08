@@ -114,3 +114,90 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, móviles
     * [x] Elaboración de interfaz gráfica y mapa de navegación cumpliendo con reglas de usabilidad y accesibilidad app móvil 
     * [ ] Maquetación de la Interfaz gráfica en XML – Android  
+
+* [ ] **Actividades de proyecto 6**
+      
+    * [x] Resolucion de problemas aplicando el modelo relacional, cardinalidad y normalizacion
+    * [x] Crea Modelo entidad relación de caso
+    * [ ] Creación de los objetos de la Base de Datos
+    * [ ] Elaboración de las Bases de Datos
+    * [ ] Destrezas y conocimientos en el manejo de sentencias DDL y DML de SQL
+    * [ ] Creación de la estructura de la BD y aplicación de restricciones
+    * [ ] Script Bases de Datos del Proyecto
+    * [ ] Selección herramientas para prototipado
+    * [ ] Crear el diseño del sitio web y/o móviles utilizando sus componentes y tecnologías respectivas
+    * [ ] Interfaces gráficas según requerimientos del proyecto
+    * [ ] Fundamentos en la implementación de componentes front-end, HTML, CSS, JS
+    * [ ] Establecer los componentes front-end de la aplicación web
+    * [ ] Diseño front-end que cumpla con los requerimientos del proyecto
+    * [ ] Foro temático Establecer las técnicas de coordinación motriz
+    * [ ] Infografía – Plan de higiene y gasto calórico
+    * [ ] Mapa mental - capacidades físicas condicionales
+    * [ ] Ficha antropométrica de valoración de la condición física
+    * [ ] Folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
+    * [ ] Documento escrito
+    * [ ] Video
+    * [ ] Foro
+          
+* [ ] **Actividades de proyecto 7**
+      
+    * [ ] Informe técnico de plan de trabajo para construcción de software
+    * [ ] Definir estándares de codificación de acuerdo a plataforma de desarrollo elegida
+    * [ ] Identifica herramientas de versionamiento
+    * [ ] Instalación y configuración de herramienta de versionamiento (Local / Web)
+    * [ ] Herramientas de versionamiento (GIT) instalada y configurada
+    * [ ] Codificación de módulos del software según requerimientos del proyecto
+    * [ ] Módulos de software codificados y probados
+    * [ ] Codificación de módulos del software Stand-alone, web y móvil de acuerdo al proyecto a desarrollar
+    * [ ] Módulos de software codificados y probados
+    * [ ] Taller sobre componentes front-end
+    * [ ] Verificación de procedimientos para la definición de componentes front-end de la aplicación (Listas de chequeo)
+    * [ ] Componente front-end del proyecto formativo y proyectos de clase (listas de chequeo)
+    * [ ] Diseño y Desarrollo de servicios web - caso
+    * [ ] API
+    * [ ] Diseño y Desarrollo de servicios web – proyecto
+    * [ ] API del Proyecto
+          
+* [ ] **Actividades de proyecto 8**
+
+    * [ ] Desarrollar software a partir de la integración de sus módulos componentes
+    * [ ] Taller acerca de integración, tecnologías emergentes y disruptivas
+    * [ ] APK (Desarrollar módulos móvil según requerimientos del proyecto)
+    * [ ] Taller sobre tecnologías emergentes y disruptivas
+    * [ ] Video exposición sobre Machine learning
+    * [ ] Texto argumentativo sobre Blockchain
+    * [ ] Cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
+    * [ ] Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales
+    * [ ] Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST
+    * [ ] Video expositivo sobre oportunidades de mejora en medio ambiente y SST
+         
+* [ ] **Actividades de proyecto 9**
+
+    * [ ] Taller sobre codificación de módulos del software
+    * [ ] Realiza plan pruebas de software
+    * [ ] Diseña casos y define el ambiente de pruebas de software según proyecto
+    * [ ] Video presentación. Proyecto de vida
+    * [ ] Diagrama de sistemas. Relación del individuo con el entorno
+    * [ ] Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE
+    * [ ] Documento colaborativo. Solución del caso
+* [ ] **Actividades de proyecto 10**
+
+    * [ ] Conceptos y principios de hardware e instalación de software
+    * [ ] Software instalado en la plataforma del cliente
+    * [ ] Realiza la configuración de servicios, bases de datos y software en el equipo del cliente
+    * [ ] Archivos cargados en la plataforma de producción
+    * [ ] Diseñar plan de mantenimiento y soporte del software
+    * [ ] Elabora documentos técnicos y de usuario del software
+    * [ ] Elabora el manual de usuario de acuerdo con las funcionalidades del software
+    * [ ] Documentación plan de capacitación y Acta de entrega del proyecto de software
+    * [ ] DOFA Personal. Identificar habilidades personales como emprendedor
+    * [ ] Modelo CANVAS del emprendimiento. Crear modelo de negocio en el que se caracteriza el emprendimiento
+    * [ ] Modelo financiero. Proyectar viabilidad financiera del emprendimiento
+* [ ] **Actividades de proyecto 11**
+
+    * [ ] Infografía procesos de desarrollo del software
+    * [ ] Bitácoras con los procesos documentados
+    * [ ] Taller
+    * [ ] Informe sobre trabajo decente, ciudadanía laboral, derechos individuales y colectivos en el trabajo
+    * [ ] Foro Estado social de derecho
+    * [ ] Presentación
