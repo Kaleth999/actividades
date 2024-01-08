@@ -130,14 +130,14 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Fundamentos en la implementación de componentes front-end, HTML, CSS, JS
     * [ ] Establecer los componentes front-end de la aplicación web
     * [ ] Diseño front-end que cumpla con los requerimientos del proyecto
-    * [ ] Foro temático Establecer las técnicas de coordinación motriz
+    * [x] Foro temático Establecer las técnicas de coordinación motriz
     * [ ] Infografía – Plan de higiene y gasto calórico
     * [ ] Mapa mental - capacidades físicas condicionales
     * [ ] Ficha antropométrica de valoración de la condición física
     * [ ] Folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
     * [ ] Documento escrito
     * [ ] Video
-    * [ ] Foro
+    * [x] Foro
           
 * [ ] **Actividades de proyecto 7**
       
@@ -166,7 +166,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Taller sobre tecnologías emergentes y disruptivas
     * [ ] Video exposición sobre Machine learning
     * [ ] Texto argumentativo sobre Blockchain
-    * [ ] Cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
+    * [x] Cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
     * [ ] Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales
     * [ ] Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST
     * [ ] Video expositivo sobre oportunidades de mejora en medio ambiente y SST
@@ -199,5 +199,5 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Bitácoras con los procesos documentados
     * [ ] Taller
     * [ ] Informe sobre trabajo decente, ciudadanía laboral, derechos individuales y colectivos en el trabajo
-    * [ ] Foro Estado social de derecho
+    * [x] Foro Estado social de derecho
     * [ ] Presentación
