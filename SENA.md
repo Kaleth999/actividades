@@ -124,7 +124,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Destrezas y conocimientos en el manejo de sentencias DDL y DML de SQL
     * [ ] Creación de la estructura de la BD y aplicación de restricciones
     * [x] Script Bases de Datos del Proyecto
-    * [ ] Selección herramientas para prototipado
+    * [x] Selección herramientas para prototipado
     * [ ] Crear el diseño del sitio web y/o móviles utilizando sus componentes y tecnologías respectivas
     * [ ] Interfaces gráficas según requerimientos del proyecto
     * [ ] Fundamentos en la implementación de componentes front-end, HTML, CSS, JS
