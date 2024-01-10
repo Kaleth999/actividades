@@ -120,7 +120,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Resolucion de problemas aplicando el modelo relacional, cardinalidad y normalizacion
     * [x] Crea Modelo entidad relación de caso
     * [x] Creación de los objetos de la Base de Datos
-    * [ ] Elaboración de las Bases de Datos
+    * [x] Elaboración de las Bases de Datos
     * [x] Destrezas y conocimientos en el manejo de sentencias DDL y DML de SQL
     * [ ] Creación de la estructura de la BD y aplicación de restricciones
     * [x] Script Bases de Datos del Proyecto
