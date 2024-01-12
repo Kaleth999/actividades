@@ -127,7 +127,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Selección herramientas para prototipado
     * [x] Crear el diseño del sitio web y/o móviles utilizando sus componentes y tecnologías respectivas
     * [ ] Interfaces gráficas según requerimientos del proyecto
-    * [ ] Fundamentos en la implementación de componentes front-end, HTML, CSS, JS
+    * [x] Fundamentos en la implementación de componentes front-end, HTML, CSS, JS
     * [X] Establecer los componentes front-end de la aplicación web
     * [ ] Diseño front-end que cumpla con los requerimientos del proyecto
     * [x] Foro temático Establecer las técnicas de coordinación motriz
