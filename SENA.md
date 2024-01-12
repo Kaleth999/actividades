@@ -141,7 +141,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
           
 * [ ] **Actividades de proyecto 7**
       
-    * [ ] Informe técnico de plan de trabajo para construcción de software
+    * [X] Informe técnico de plan de trabajo para construcción de software
     * [ ] Definir estándares de codificación de acuerdo a plataforma de desarrollo elegida
     * [ ] Identifica herramientas de versionamiento
     * [ ] Instalación y configuración de herramienta de versionamiento (Local / Web)
