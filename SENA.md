@@ -145,7 +145,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Definir estándares de codificación de acuerdo a plataforma de desarrollo elegida
     * [X] Identifica herramientas de versionamiento
     * [x] Instalación y configuración de herramienta de versionamiento (Local / Web)
-    * [ ] Herramientas de versionamiento (GIT) instalada y configurada
+    * [x] Herramientas de versionamiento (GIT) instalada y configurada
     * [ ] Codificación de módulos del software según requerimientos del proyecto
     * [ ] Módulos de software codificados y probados
     * [ ] Codificación de módulos del software Stand-alone, web y móvil de acuerdo al proyecto a desarrollar
