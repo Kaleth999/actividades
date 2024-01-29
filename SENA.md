@@ -142,7 +142,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
 * [ ] **Actividades de proyecto 7**
       
     * [X] Informe técnico de plan de trabajo para construcción de software
-    * [ ] Definir estándares de codificación de acuerdo a plataforma de desarrollo elegida
+    * [x] Definir estándares de codificación de acuerdo a plataforma de desarrollo elegida
     * [X] Identifica herramientas de versionamiento
     * [x] Instalación y configuración de herramienta de versionamiento (Local / Web)
     * [x] Herramientas de versionamiento (GIT) instalada y configurada
