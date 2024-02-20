@@ -161,7 +161,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
 * [ ] **Actividades de proyecto 8**
 
     * [x] Desarrollar software a partir de la integración de sus módulos componentes
-    * [ ] Taller acerca de integración, tecnologías emergentes y disruptivas
+    * [x] Taller acerca de integración, tecnologías emergentes y disruptivas
     * [x] APK (Desarrollar módulos móvil según requerimientos del proyecto)
     * [ ] Taller sobre tecnologías emergentes y disruptivas
     * [ ] Video exposición sobre Machine learning
