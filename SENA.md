@@ -146,10 +146,10 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [X] Identifica herramientas de versionamiento
     * [x] Instalación y configuración de herramienta de versionamiento (Local / Web)
     * [x] Herramientas de versionamiento (GIT) instalada y configurada
-    * [ ] Codificación de módulos del software según requerimientos del proyecto
-    * [ ] Módulos de software codificados y probados
-    * [ ] Codificación de módulos del software Stand-alone, web y móvil de acuerdo al proyecto a desarrollar
-    * [ ] Módulos de software codificados y probados
+    * [x] Codificación de módulos del software según requerimientos del proyecto
+    * [x] Módulos de software codificados y probados
+    * [x] Codificación de módulos del software Stand-alone, web y móvil de acuerdo al proyecto a desarrollar
+    * [x] Módulos de software codificados y probados
     * [x] Taller sobre componentes front-end
     * [ ] Verificación de procedimientos para la definición de componentes front-end de la aplicación (Listas de chequeo)
     * [ ] Componente front-end del proyecto formativo y proyectos de clase (listas de chequeo)
