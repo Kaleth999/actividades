@@ -154,9 +154,9 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Verificación de procedimientos para la definición de componentes front-end de la aplicación (Listas de chequeo)
     * [ ] Componente front-end del proyecto formativo y proyectos de clase (listas de chequeo)
     * [ ] Diseño y Desarrollo de servicios web - caso
-    * [ ] API
+    * [x] API
     * [ ] Diseño y Desarrollo de servicios web – proyecto
-    * [ ] API del Proyecto
+    * [x] API del Proyecto
           
 * [ ] **Actividades de proyecto 8**
 
