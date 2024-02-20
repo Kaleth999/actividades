@@ -165,7 +165,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] APK (Desarrollar módulos móvil según requerimientos del proyecto)
     * [ ] Taller sobre tecnologías emergentes y disruptivas
     * [ ] Video exposición sobre Machine learning
-    * [ ] Texto argumentativo sobre Blockchain
+    * [x] Texto argumentativo sobre Blockchain
     * [x] Cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
     * [ ] Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales
     * [ ] Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST
