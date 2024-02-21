@@ -163,7 +163,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Desarrollar software a partir de la integración de sus módulos componentes
     * [x] Taller acerca de integración, tecnologías emergentes y disruptivas
     * [x] APK (Desarrollar módulos móvil según requerimientos del proyecto)
-    * [ ] Taller sobre tecnologías emergentes y disruptivas
+    * [x] Taller sobre tecnologías emergentes y disruptivas
     * [ ] Video exposición sobre Machine learning
     * [x] Texto argumentativo sobre Blockchain
     * [x] Cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
