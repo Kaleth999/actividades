@@ -151,7 +151,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Codificación de módulos del software Stand-alone, web y móvil de acuerdo al proyecto a desarrollar
     * [x] Módulos de software codificados y probados
     * [x] Taller sobre componentes front-end
-    * [ ] Verificación de procedimientos para la definición de componentes front-end de la aplicación (Listas de chequeo)
+    * [x] Verificación de procedimientos para la definición de componentes front-end de la aplicación (Listas de chequeo)
     * [x] Componente front-end del proyecto formativo y proyectos de clase (listas de chequeo)
     * [x] Diseño y Desarrollo de servicios web - caso
     * [x] API
