@@ -174,7 +174,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
 * [ ] **Actividades de proyecto 9**
 
     * [ ] Taller sobre codificación de módulos del software
-    * [ ] Realiza plan pruebas de software
+    * [x] Realiza plan pruebas de software
     * [ ] Diseña casos y define el ambiente de pruebas de software según proyecto
     * [ ] Video presentación. Proyecto de vida
     * [ ] Diagrama de sistemas. Relación del individuo con el entorno
