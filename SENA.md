@@ -182,7 +182,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Documento colaborativo. Solución del caso
 * [ ] **Actividades de proyecto 10**
 
-    * [ ] Conceptos y principios de hardware e instalación de software
+    * [x] Conceptos y principios de hardware e instalación de software
     * [ ] Software instalado en la plataforma del cliente
     * [ ] Realiza la configuración de servicios, bases de datos y software en el equipo del cliente
     * [ ] Archivos cargados en la plataforma de producción
