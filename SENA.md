@@ -178,7 +178,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Diseña casos y define el ambiente de pruebas de software según proyecto
     * [ ] Video presentación. Proyecto de vida
     * [ ] Diagrama de sistemas. Relación del individuo con el entorno
-    * [ ] Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE
+    * [X] Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE
     * [ ] Documento colaborativo. Solución del caso
 * [ ] **Actividades de proyecto 10**
 
