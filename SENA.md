@@ -186,7 +186,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Software instalado en la plataforma del cliente
     * [ ] Realiza la configuración de servicios, bases de datos y software en el equipo del cliente
     * [ ] Archivos cargados en la plataforma de producción
-    * [ ] Diseñar plan de mantenimiento y soporte del software
+    * [x] Diseñar plan de mantenimiento y soporte del software
     * [ ] Elabora documentos técnicos y de usuario del software
     * [ ] Elabora el manual de usuario de acuerdo con las funcionalidades del software
     * [ ] Documentación plan de capacitación y Acta de entrega del proyecto de software
