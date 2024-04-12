@@ -187,8 +187,8 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Realiza la configuración de servicios, bases de datos y software en el equipo del cliente
     * [ ] Archivos cargados en la plataforma de producción
     * [x] Diseñar plan de mantenimiento y soporte del software
-    * [ ] Elabora documentos técnicos y de usuario del software
-    * [ ] Elabora el manual de usuario de acuerdo con las funcionalidades del software
+    * [X] Elabora documentos técnicos y de usuario del software
+    * [X] Elabora el manual de usuario de acuerdo con las funcionalidades del software
     * [ ] Documentación plan de capacitación y Acta de entrega del proyecto de software
     * [ ] DOFA Personal. Identificar habilidades personales como emprendedor
     * [ ] Modelo CANVAS del emprendimiento. Crear modelo de negocio en el que se caracteriza el emprendimiento
