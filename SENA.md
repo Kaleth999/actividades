@@ -104,7 +104,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
      
   * [ ] **Actividades de proyecto 5**
   
-    * [ ] Mapa mental - características socioeconómicas, tecnológicas, políticas y culturales del contexto productivo inmediato 
+    * [x] Mapa mental - características socioeconómicas, tecnológicas, políticas y culturales del contexto productivo inmediato 
     * [ ] Propuesta de investigación formativa
     * [x] Taller sobre construcción del prototipo del software de acuerdo al análisis de las características funcionales y de calidad
     * [x] Nociones de reglas de usabilidad y accesibilidad en aplicaciones independientes, web
