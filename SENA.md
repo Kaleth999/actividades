@@ -93,7 +93,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Taller sobre validación de documentos
     * [X] Diseño de instrumentos para verificación de artefactos 
     * [x] Listas de chequeo para validación de documentación de diseño 
-    * [ ] Informe de evaluación a los artefactos de diseño del software 
+    * [x] Informe de evaluación a los artefactos de diseño del software 
     * [ ] Video. La comunicación como expresión humana
     * [x] Informe. Creación de contenidos comunicativos
    
