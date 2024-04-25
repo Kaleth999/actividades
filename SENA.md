@@ -132,7 +132,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Diseño front-end que cumpla con los requerimientos del proyecto
     * [x] Foro temático Establecer las técnicas de coordinación motriz
     * [ ] Infografía – Plan de higiene y gasto calórico
-    * [ ] Mapa mental - capacidades físicas condicionales
+    * [x] Mapa mental - capacidades físicas condicionales
     * [ ] Ficha antropométrica de valoración de la condición física
     * [ ] Folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
     * [ ] Documento escrito
