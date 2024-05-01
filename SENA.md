@@ -133,8 +133,8 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [x] Foro temático Establecer las técnicas de coordinación motriz
     * [ ] Infografía – Plan de higiene y gasto calórico
     * [x] Mapa mental - capacidades físicas condicionales
-    * [ ] Ficha antropométrica de valoración de la condición física
-    * [ ] Folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
+    * [x] Ficha antropométrica de valoración de la condición física
+    * [x] Folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
     * [ ] Documento escrito
     * [ ] Video
     * [x] Foro
