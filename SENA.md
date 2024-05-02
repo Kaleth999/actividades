@@ -131,11 +131,11 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [X] Establecer los componentes front-end de la aplicación web
     * [ ] Diseño front-end que cumpla con los requerimientos del proyecto
     * [x] Foro temático Establecer las técnicas de coordinación motriz
-    * [ ] Infografía – Plan de higiene y gasto calórico
+    * [x] Infografía – Plan de higiene y gasto calórico
     * [x] Mapa mental - capacidades físicas condicionales
     * [x] Ficha antropométrica de valoración de la condición física
     * [x] Folleto de lesiones más comunes en el trabajo o vida cotidiana, y la importancia de las pausas activas
-    * [ ] Documento escrito
+    * [x] Documento escrito
     * [ ] Video
     * [x] Foro
           
