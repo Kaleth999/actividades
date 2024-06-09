@@ -190,7 +190,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [X] Elabora documentos técnicos y de usuario del software
     * [X] Elabora el manual de usuario de acuerdo con las funcionalidades del software
     * [x] Documentación plan de capacitación y Acta de entrega del proyecto de software
-    * [ ] DOFA Personal. Identificar habilidades personales como emprendedor
+    * [x] DOFA Personal. Identificar habilidades personales como emprendedor
     * [x] Modelo CANVAS del emprendimiento. Crear modelo de negocio en el que se caracteriza el emprendimiento
     * [ ] Modelo financiero. Proyectar viabilidad financiera del emprendimiento
 * [ ] **Actividades de proyecto 11**
