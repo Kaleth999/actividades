@@ -167,7 +167,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Video exposición sobre Machine learning
     * [x] Texto argumentativo sobre Blockchain
     * [x] Cuestionario sobre opciones de solución a situaciones que se presentan en el contexto ambiental y del SST
-    * [ ] Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales
+    * [x] Presentación sobre las estrategias para la prevención y control de los impactos ambientales, accidentes y enfermedades laborales
     * [x] Mapa mental respecto a los planes y acciones establecidos en medio ambiente y SST
     * [ ] Video expositivo sobre oportunidades de mejora en medio ambiente y SST
          
