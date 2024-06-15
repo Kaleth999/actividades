@@ -179,7 +179,7 @@ Aqui estare llevando todo mi proceso del programa **analisis y desarrollo de sof
     * [ ] Video presentación. Proyecto de vida
     * [X] Diagrama de sistemas. Relación del individuo con el entorno
     * [X] Ejemplo de una marca sostenible que cumpla con TRIPLE BOTTOM LINE
-    * [ ] Documento colaborativo. Solución del caso
+    * [x] Documento colaborativo. Solución del caso
 * [ ] **Actividades de proyecto 10**
 
     * [x] Conceptos y principios de hardware e instalación de software
